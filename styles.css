@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 125px;
+    background-color: #F9E0AE;
+}
+
+header ul li {
+    display: inline;
+
+}
+
+header img {
+    padding-top: 44px;
+    padding-left: 120px;
+    display: inline;
+}
+
+header ul {
+    margin-left: 504px;
+    margin-top: -47px;
+}
+
+header ul li {
+    margin-right: 54px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+header li a {
+    text-decoration: none;
+    color: #000;
+}
+
+header li button {
+    width: 150px;
+    height: 39px;
+    border-radius: 10px;
+    background: #C24914;
+    color: white;
+    border: 1px solid #C24914 ;
+}
